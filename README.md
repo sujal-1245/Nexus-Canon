@@ -31,6 +31,12 @@ https://nexus-canon.web.app
 * **Data**: TMDb API
 * **State & Lifecycle**: React Hooks (`useState`, `useEffect`, `useRef`)
 
+## 🎥 Working Demo 
+
+https://github.com/user-attachments/assets/241f83f9-2009-4153-bb65-4fdd003fb921
+
+
+
 ## 📁 Project Structure
 
 ```
